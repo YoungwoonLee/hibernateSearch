@@ -5,8 +5,8 @@ spring:
   datasource:
     driver-class-name: org.mariadb.jdbc.Driver
     url: jdbc:mariadb://127.0.0.1:3306/searchtest?serverTimezone=UTC&characterEncoding=UTF-8&allowMultiQueries=true
-    username: ondaji
-    password: alt846!@
+    username: user
+    password: pass
 
   jpa:
     generate-ddl: true
